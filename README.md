@@ -1,2 +1,2 @@
-# life
+life
 ## life
